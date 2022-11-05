@@ -1,0 +1,16 @@
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\bin\Debug\net5.0\ConsoleApp5Patika.exe
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\bin\Debug\net5.0\ConsoleApp5Patika.deps.json
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\bin\Debug\net5.0\ConsoleApp5Patika.runtimeconfig.json
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\bin\Debug\net5.0\ConsoleApp5Patika.runtimeconfig.dev.json
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\bin\Debug\net5.0\ConsoleApp5Patika.dll
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\bin\Debug\net5.0\ConsoleApp5Patika.pdb
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ConsoleApp5Patika.csproj.AssemblyReference.cache
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ConsoleApp5Patika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ConsoleApp5Patika.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ConsoleApp5Patika.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ConsoleApp5Patika.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ConsoleApp5Patika.dll
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\refint\ConsoleApp5Patika.dll
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ConsoleApp5Patika.pdb
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ConsoleApp5Patika.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\ConsoleApp5Patika\ConsoleApp5Patika\obj\Debug\net5.0\ref\ConsoleApp5Patika.dll
