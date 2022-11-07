@@ -1,0 +1,16 @@
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\bin\Debug\net5.0\KoleksiyonlarAlgoritma.exe
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\bin\Debug\net5.0\KoleksiyonlarAlgoritma.deps.json
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\bin\Debug\net5.0\KoleksiyonlarAlgoritma.runtimeconfig.json
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\bin\Debug\net5.0\KoleksiyonlarAlgoritma.runtimeconfig.dev.json
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\bin\Debug\net5.0\KoleksiyonlarAlgoritma.dll
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\bin\Debug\net5.0\KoleksiyonlarAlgoritma.pdb
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\KoleksiyonlarAlgoritma.csproj.AssemblyReference.cache
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\KoleksiyonlarAlgoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\KoleksiyonlarAlgoritma.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\KoleksiyonlarAlgoritma.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\KoleksiyonlarAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\KoleksiyonlarAlgoritma.dll
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\refint\KoleksiyonlarAlgoritma.dll
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\KoleksiyonlarAlgoritma.pdb
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\KoleksiyonlarAlgoritma.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\KoleksiyonlarAlgoritma\KoleksiyonlarAlgoritma\obj\Debug\net5.0\ref\KoleksiyonlarAlgoritma.dll
